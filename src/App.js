@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>Image updated by Majid 2060</p>
+        <p>Image updated by Majid 2060   -- changed at feature branch of github</p>
         <a
           className="App-link"
           href="https://reactjs.org"
